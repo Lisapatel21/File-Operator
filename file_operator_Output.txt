@@ -1,0 +1,91 @@
+====================================
+ WELCOME TO PERSONAL JOURNAL MANAGER
+====================================
+
+Please select an option:
+1. Add a New Entry
+2. View All Entries
+3. Search for an Entry
+4. Delete All Entries
+5. File Handling Modes
+6. Exit
+
+Enter your choice: 1
+
+Enter your journal entry: Today was productive day. I learned about file handeling in Python.
+
+Entry added successfully!
+
+Please select an option:
+1. Add a New Entry
+2. View All Entries
+3. Search for an Entry
+4. Delete All Entries
+5. File Handling Modes
+6. Exit
+
+Enter your choice: 2
+
+Your Journal Entries:
+--------------------------------------
+[2026-08-13 17:17:07.651529]
+Today was productive day. I learned about file handeling in Python.
+
+Please select an option:
+1. Add a New Entry
+2. View All Entries
+3. Search for an Entry
+4. Delete All Entries
+5. File Handling Modes
+6. Exit
+
+Enter your choice: 3
+
+Enter a keyword or date to search: productive
+
+Matching Entries:
+--------------------------------------
+[2026-08-13 17:17:07.651529]
+Today was productive day. I learned about file handeling in Python.
+
+Please select an option:
+1. Add a New Entry
+2. View All Entries
+3. Search for an Entry
+4. Delete All Entries
+5. File Handling Modes
+6. Exit
+
+Enter your choice: 4
+
+Are you sure you want to delete all entries? (yes/no): yes
+
+All journal entries have been deleted.
+
+Please select an option:
+1. Add a New Entry
+2. View All Entries
+3. Search for an Entry
+4. Delete All Entries
+5. File Handling Modes
+6. Exit
+
+Enter your choice: 5
+
+File Handling Modes:
+--------------------------------------
+r  - Read the contents of a file
+w  - Write to a file and replace old contents
+a  - Add new content at the end of a file
+x  - Create a new file
+--------------------------------------
+
+Please select an option:
+1. Add a New Entry
+2. View All Entries
+3. Search for an Entry
+4. Delete All Entries
+5. File Handling Modes
+6. Exit
+
+Enter your choice: 6
